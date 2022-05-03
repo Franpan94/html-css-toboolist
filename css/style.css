@@ -24,7 +24,7 @@
 
 main{
     background-color: lightgray;
-    height: 800px;
+    height: 1200px;
     padding-top: 60px;
 }
 
@@ -32,7 +32,7 @@ main{
     width: 1100px;
     background-color: white;
     margin: auto;
-    height: 700px;
+    height: 1000px;
     border-radius: 15px;
 }
 
@@ -46,4 +46,67 @@ main{
     background-color: deepskyblue;
     border: 0;
     color: white;
+}
+
+.bottonedue{
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 120px;
+    font-size: 20px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: white;
+    border: 2px solid lightgray;
+    color: lightgray;
+}
+
+.linea{
+    color: lightgray;
+    margin-top: 20px;
+}
+
+.titolodue{
+    display: inline-block;
+}
+
+.contenitoretre{
+    margin-left: 80px;
+    margin-top: 40px;
+}
+
+.spunta{
+    border: 1px solid springgreen;
+    color:springgreen; 
+    border-radius: 55%;
+    padding: 3px;
+    font-size: 13px;
+    margin-bottom: 10px;
+}
+
+.contenitorequattro{
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.sottotitolo{
+    margin-left: 10px;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+.bottonetre{
+    vertical-align: middle;
+    margin-left: 10px;
+    width: 80px;
+    font-size: 15px;
+    height: 25px;
+    border-radius: 15px;
+    background-color: deepskyblue;
+    border: 0;
+    color: white;
+}
+
+.contenitorecinque{
+    margin-left: 80px;
+    margin-top: 60px;
 }
