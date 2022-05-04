@@ -5,7 +5,7 @@
 }
 
 .contenitore{
-    width: 1600px;
+    width: 1000px;
     height: 100px;
     margin-top: 15px;
     margin-left: 15px;
@@ -151,7 +151,7 @@ main{
     font-size: 15px;
     height: 25px;
     border-radius: 15px;
-    background-color: deepskyblue;
+    background-color: orange;
     border: 0;
     color: white;
 }
